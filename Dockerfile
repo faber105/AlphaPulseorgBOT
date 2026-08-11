@@ -1,20 +1,16 @@
-FROM python:3.11-slim
-
-ENV PYTHONDONTWRITEBYTECODE=1 \
-    PYTHONUNBUFFERED=1 \
-    PIP_NO_CACHE_DIR=1
+FROM node:20-alpine AS build
 
 WORKDIR /app
+ARG VITE_API_BASE_URL=http://localhost:8080/api
+ENV VITE_API_BASE_URL=$VITE_API_BASE_URL
 
-RUN apt-get update \
-    && apt-get install -y --no-install-recommends build-essential curl \
-    && rm -rf /var/lib/apt/lists/*
-
-COPY requirements.txt .
-RUN pip install --upgrade pip \
-    && pip install -r requirements.txt
+COPY package.json package-lock.json* ./
+RUN npm install
 
 COPY . .
+RUN npm run build
 
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8080"]
+FROM nginx:1.27-alpine
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=build /app/dist /usr/share/nginx/html
 
