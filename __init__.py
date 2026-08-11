@@ -1,2 +1,2 @@
-"""Timeframe-specific signal agents."""
+"""Database models for AlphaPulse."""
 
