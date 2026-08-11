@@ -1,0 +1,845 @@
+INFO:__main__:Training timeframe 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_usd_15s.pkl accuracy=0.6471
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_usd_15s.pkl accuracy=0.6604
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_jpy_15s.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_usd_15s.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nzd_usd_15s.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cad_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_chf_15s.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_gbp_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_jpy_15s.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_chf_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_nzd_15s.pkl accuracy=0.6415
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_huf_15s.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_try_15s.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_rub_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_jpy_15s.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_aud_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_jpy_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_cad_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_chf_15s.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_nzd_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\cad_jpy_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\cad_chf_15s.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\chf_jpy_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\chf_nok_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nzd_jpy_15s.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_brl_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/RUB 15s: Not enough training data for USD/RUB 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_mxn_15s.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cnh_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_sgd_15s.pkl accuracy=0.3208
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_inr_15s.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_pkr_15s.pkl accuracy=0.8667
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_idr_15s.pkl accuracy=0.7083
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/BDT 15s: Not enough training data for USD/BDT 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_php_15s.pkl accuracy=0.6415
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_thb_15s.pkl accuracy=0.7308
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/VND 15s: Not enough training data for USD/VND 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_myr_15s.pkl accuracy=0.5652
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cop_15s.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_ars_15s.pkl accuracy=0.5714
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_clp_15s.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_egp_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_dzd_15s.pkl accuracy=0.6226
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\mad_usd_15s.pkl accuracy=0.6038
+ERROR:yfinance:HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: BHDCNY=X"}}}
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BHDCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for BHD/CNY 15s: Not enough training data for BHD/CNY 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aed_cny_15s.pkl accuracy=0.6667
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for KES/USD 15s: Not enough training data for KES/USD 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\zar_usd_15s.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for UAH/USD 15s: Not enough training data for UAH/USD 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for NGN/USD 15s: Not enough training data for NGN/USD 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for LBP/USD 15s: Not enough training data for LBP/USD 15s
+ERROR:yfinance:HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: JODCNY=X"}}}
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['JODCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for JOD/CNY 15s: Not enough training data for JOD/CNY 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\sar_cny_15s.pkl accuracy=0.5625
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['OMRCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for OMR/CNY 15s: Not enough training data for OMR/CNY 15s
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\qar_cny_15s.pkl accuracy=0.7879
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\btc_usd_15s.pkl accuracy=0.4717
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=ETHUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\eth_usd_15s.pkl accuracy=0.4528
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=BNBUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\bnb_usd_15s.pkl accuracy=0.5283
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=SOLUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\sol_usd_15s.pkl accuracy=0.4717
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=ADAUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\ada_usd_15s.pkl accuracy=0.6226
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=DOTUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\dot_usd_15s.pkl accuracy=0.5849
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=DOGEUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\doge_usd_15s.pkl accuracy=0.5094
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=LTCUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\ltc_usd_15s.pkl accuracy=0.4906
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=LINKUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\link_usd_15s.pkl accuracy=0.6415
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=AVAXUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\avax_usd_15s.pkl accuracy=0.4906
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=MATICUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\matic_usd_15s.pkl accuracy=0.6981
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=TRXUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\trx_usd_15s.pkl accuracy=0.7736
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=TONUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\ton_usd_15s.pkl accuracy=0.4528
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=XRPUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\xrp_usd_15s.pkl accuracy=0.6792
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\xau_usd_15s.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\xag_usd_15s.pkl accuracy=0.4151
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\brent_15s.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\wti_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\ngas_15s.pkl accuracy=0.6604
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\plat_15s.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\pall_15s.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nvda_15s.pkl accuracy=0.3774
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aapl_15s.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\msft_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\amzn_15s.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\tsla_15s.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:432: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  return _pd.Timedelta(interval)
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\meta_15s.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nflx_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\googl_15s.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\amd_15s.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\intc_15s.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\v_15s.pkl accuracy=0.6226
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\c_15s.pkl accuracy=0.6415
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\xom_15s.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\ba_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\mcd_15s.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\pfe_15s.pkl accuracy=0.3585
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\jnj_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:432: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  return _pd.Timedelta(interval)
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\baba_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\csco_15s.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\axp_15s.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\fdx_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gme_15s.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\pltr_15s.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\mara_15s.pkl accuracy=0.3774
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\coin_15s.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\sp500_15s.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\us100_15s.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\dji30_15s.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\d30eur_15s.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\f40eur_15s.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\e35eur_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\e50eur_15s.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\100gbp_15s.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\jpn225_15s.pkl accuracy=0.6415
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aus200_15s.pkl accuracy=0.3269
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\vix_15s.pkl accuracy=0.4340
+INFO:__main__:Training timeframe 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_usd_1m.pkl accuracy=0.6078
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_usd_1m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_jpy_1m.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_usd_1m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nzd_usd_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cad_1m.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_chf_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_gbp_1m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_jpy_1m.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_chf_1m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_nzd_1m.pkl accuracy=0.6604
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_huf_1m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_try_1m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_rub_1m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_jpy_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_aud_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_jpy_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_cad_1m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_chf_1m.pkl accuracy=0.3962
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_nzd_1m.pkl accuracy=0.6226
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\cad_jpy_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\cad_chf_1m.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\chf_jpy_1m.pkl accuracy=0.3962
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\chf_nok_1m.pkl accuracy=0.3962
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nzd_jpy_1m.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_brl_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/RUB 1m: Not enough training data for USD/RUB 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_mxn_1m.pkl accuracy=0.6604
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cnh_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_sgd_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_inr_1m.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_pkr_1m.pkl accuracy=0.8667
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_idr_1m.pkl accuracy=0.7083
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/BDT 1m: Not enough training data for USD/BDT 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_php_1m.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_thb_1m.pkl accuracy=0.7115
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/VND 1m: Not enough training data for USD/VND 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_myr_1m.pkl accuracy=0.5652
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cop_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_ars_1m.pkl accuracy=0.5517
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_clp_1m.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_egp_1m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_dzd_1m.pkl accuracy=0.6415
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\mad_usd_1m.pkl accuracy=0.5094
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BHDCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for BHD/CNY 1m: Not enough training data for BHD/CNY 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aed_cny_1m.pkl accuracy=0.6486
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for KES/USD 1m: Not enough training data for KES/USD 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\zar_usd_1m.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for UAH/USD 1m: Not enough training data for UAH/USD 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for NGN/USD 1m: Not enough training data for NGN/USD 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for LBP/USD 1m: Not enough training data for LBP/USD 1m
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['JODCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for JOD/CNY 1m: Not enough training data for JOD/CNY 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\sar_cny_1m.pkl accuracy=0.5625
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['OMRCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for OMR/CNY 1m: Not enough training data for OMR/CNY 1m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\qar_cny_1m.pkl accuracy=0.7941
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\btc_usd_1m.pkl accuracy=0.4717
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=ETHUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\eth_usd_1m.pkl accuracy=0.5660
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=BNBUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\bnb_usd_1m.pkl accuracy=0.5660
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=SOLUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\sol_usd_1m.pkl accuracy=0.4528
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=ADAUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\ada_usd_1m.pkl accuracy=0.5094
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=DOTUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\dot_usd_1m.pkl accuracy=0.5660
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=DOGEUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\doge_usd_1m.pkl accuracy=0.4717
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=LTCUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\ltc_usd_1m.pkl accuracy=0.5472
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=LINKUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\link_usd_1m.pkl accuracy=0.6226
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=AVAXUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\avax_usd_1m.pkl accuracy=0.5472
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=MATICUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\matic_usd_1m.pkl accuracy=0.6981
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=TRXUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\trx_usd_1m.pkl accuracy=0.7547
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=TONUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\ton_usd_1m.pkl accuracy=0.5472
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=XRPUSDT&interval=1m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\xrp_usd_1m.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\xau_usd_1m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\xag_usd_1m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\brent_1m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\wti_1m.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\ngas_1m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\plat_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\pall_1m.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nvda_1m.pkl accuracy=0.3396
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aapl_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\msft_1m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\amzn_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\tsla_1m.pkl accuracy=0.4151
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:432: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  return _pd.Timedelta(interval)
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\meta_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nflx_1m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\googl_1m.pkl accuracy=0.3962
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\amd_1m.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\intc_1m.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\v_1m.pkl accuracy=0.6226
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\c_1m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\xom_1m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\ba_1m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\mcd_1m.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\pfe_1m.pkl accuracy=0.3774
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\jnj_1m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:432: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  return _pd.Timedelta(interval)
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\baba_1m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\csco_1m.pkl accuracy=0.3585
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\axp_1m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\fdx_1m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gme_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\pltr_1m.pkl accuracy=0.6038
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\mara_1m.pkl accuracy=0.3774
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\coin_1m.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\sp500_1m.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\us100_1m.pkl accuracy=0.6226
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\dji30_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\d30eur_1m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\f40eur_1m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\e35eur_1m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\e50eur_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\100gbp_1m.pkl accuracy=0.5094
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\jpn225_1m.pkl accuracy=0.6415
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aus200_1m.pkl accuracy=0.3269
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\vix_1m.pkl accuracy=0.4151
+INFO:__main__:Training timeframe 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_usd_3m.pkl accuracy=0.4118
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_usd_3m.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_jpy_3m.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_usd_3m.pkl accuracy=0.5849
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nzd_usd_3m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cad_3m.pkl accuracy=0.3774
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_chf_3m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_gbp_3m.pkl accuracy=0.4340
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_jpy_3m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_chf_3m.pkl accuracy=0.6981
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_nzd_3m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_huf_3m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_try_3m.pkl accuracy=0.7170
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\eur_rub_3m.pkl accuracy=0.7547
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_jpy_3m.pkl accuracy=0.3774
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\gbp_aud_3m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_jpy_3m.pkl accuracy=0.3585
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_cad_3m.pkl accuracy=0.3962
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_chf_3m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aud_nzd_3m.pkl accuracy=0.6981
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\cad_jpy_3m.pkl accuracy=0.3396
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\cad_chf_3m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\chf_jpy_3m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\chf_nok_3m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\nzd_jpy_3m.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_brl_3m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/RUB 3m: Not enough training data for USD/RUB 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_mxn_3m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cnh_3m.pkl accuracy=0.4906
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_sgd_3m.pkl accuracy=0.4717
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_inr_3m.pkl accuracy=0.4528
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_pkr_3m.pkl accuracy=0.7000
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_idr_3m.pkl accuracy=0.5833
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/BDT 3m: Not enough training data for USD/BDT 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_php_3m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_thb_3m.pkl accuracy=0.7115
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for USD/VND 3m: Not enough training data for USD/VND 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_myr_3m.pkl accuracy=0.6739
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_cop_3m.pkl accuracy=0.5283
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_ars_3m.pkl accuracy=0.4138
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_clp_3m.pkl accuracy=0.5472
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_egp_3m.pkl accuracy=0.6604
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\usd_dzd_3m.pkl accuracy=0.6604
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\mad_usd_3m.pkl accuracy=0.6038
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BHDCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for BHD/CNY 3m: Not enough training data for BHD/CNY 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\aed_cny_3m.pkl accuracy=0.5405
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for KES/USD 3m: Not enough training data for KES/USD 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\zar_usd_3m.pkl accuracy=0.5660
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for UAH/USD 3m: Not enough training data for UAH/USD 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for NGN/USD 3m: Not enough training data for NGN/USD 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+WARNING:__main__:Training skipped for LBP/USD 3m: Not enough training data for LBP/USD 3m
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['JODCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for JOD/CNY 3m: Not enough training data for JOD/CNY 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\sar_cny_3m.pkl accuracy=0.6250
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['OMRCNY=X']: YFPricesMissingError('possibly delisted; no price data found  (period=7d) (Yahoo error = "No data found, symbol may be delisted")')
+WARNING:__main__:Training skipped for OMR/CNY 3m: Not enough training data for OMR/CNY 3m
+E:\tradepocketbot\.venv\Lib\site-packages\yfinance\utils.py:612: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`).Please use a specific unit instead.
+  last_rows_same_interval = (dt2 - dt1) < _pd.Timedelta(interval)
+INFO:__main__:Trained model models\qar_cny_3m.pkl accuracy=0.6765
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=3m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\btc_usd_3m.pkl accuracy=0.4717
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=ETHUSDT&interval=3m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\eth_usd_3m.pkl accuracy=0.4528
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=BNBUSDT&interval=3m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\bnb_usd_3m.pkl accuracy=0.5472
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=SOLUSDT&interval=3m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\sol_usd_3m.pkl accuracy=0.4717
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=ADAUSDT&interval=3m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\ada_usd_3m.pkl accuracy=0.5472
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=DOTUSDT&interval=3m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\dot_usd_3m.pkl accuracy=0.3585
+INFO:httpx:HTTP Request: GET https://api.binance.com/api/v3/klines?symbol=DOGEUSDT&interval=3m&limit=250 "HTTP/1.1 200 OK"
+INFO:__main__:Trained model models\doge_usd_3m.pkl accuracy=0.3774

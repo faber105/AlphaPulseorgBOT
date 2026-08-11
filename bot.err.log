@@ -1,0 +1,18 @@
+2026-06-23 10:46:38,306 INFO __main__: Starting AlphaPulse bot polling
+2026-06-23 10:46:38,352 INFO aiogram.dispatcher: Start polling
+2026-06-23 10:46:38,437 INFO aiogram.dispatcher: Run polling for bot @pulserAlphabot id=8291245060 - 'AlphaPulse test'
+2026-06-23 10:47:28,818 INFO aiogram.event: Update id=586598827 is handled. Duration 186 ms by bot id=8291245060
+2026-06-23 10:48:26,291 INFO aiogram.event: Update id=586598828 is handled. Duration 77 ms by bot id=8291245060
+2026-06-23 11:21:23,952 INFO aiogram.event: Update id=586598829 is handled. Duration 125 ms by bot id=8291245060
+2026-06-23 11:29:13,287 INFO aiogram.event: Update id=586598830 is handled. Duration 140 ms by bot id=8291245060
+2026-06-23 11:29:46,369 INFO aiogram.event: Update id=586598831 is handled. Duration 436 ms by bot id=8291245060
+2026-06-23 11:30:26,436 INFO aiogram.event: Update id=586598832 is handled. Duration 625 ms by bot id=8291245060
+2026-06-23 11:30:32,006 INFO aiogram.event: Update id=586598833 is handled. Duration 703 ms by bot id=8291245060
+2026-06-23 11:34:07,888 INFO aiogram.event: Update id=586598834 is handled. Duration 156 ms by bot id=8291245060
+2026-06-23 14:39:53,807 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-06-23 14:39:55,943 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8291245060)
+2026-06-23 14:40:07,071 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8291245060)
+2026-06-23 15:39:20,505 INFO aiogram.event: Update id=586598835 is handled. Duration 202 ms by bot id=8291245060
+2026-06-23 16:45:19,528 ERROR aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-06-23 16:45:19,529 WARNING aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8291245060)
+2026-06-23 16:45:30,645 INFO aiogram.dispatcher: Connection established (tryings = 1, bot id = 8291245060)
